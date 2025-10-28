@@ -1,0 +1,3 @@
+[console_scripts]
+just_eval = just_eval.evaluate:main
+
